@@ -1,7 +1,7 @@
-testing line UPDATE UPDATE UPDATE
-untesting line
+ untesting line
 commit test
 456
  
 Added new li
 new branch line
+NEW  LINE FOR GIT GUI
